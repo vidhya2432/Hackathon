@@ -1,0 +1,4 @@
+node_modules/
+bharatfin.sqlite
+bharatfin.sqlite-shm
+bharatfin.sqlite-wal
